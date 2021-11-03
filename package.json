@@ -1,0 +1,26 @@
+{
+  "name": "html_school",
+  "version": "1.0.0",
+  "description": "Example of HTML",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/birdofartemis/HTML_School.git"
+  },
+  "author": "Marco Alonso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/birdofartemis/HTML_School/issues"
+  },
+  "homepage": "https://github.com/birdofartemis/HTML_School#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
